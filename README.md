@@ -36,5 +36,5 @@ Este proyecto fue desarrollado por [Mateo Ovejero Sayavedra Leon].
 
 ## Licencia
 
-Este proyecto está bajo la Licencia [MIT License]. Consulta el archivo `LICENSE` para obtener más información.
+Este proyecto está bajo la Licencia [MIT License y Apache License]. Consulta el archivo `LICENSE` para obtener más información.
 
